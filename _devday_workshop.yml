@@ -15,6 +15,7 @@ vars:
   REDHAT_DOWNLOAD_OC_PORTAL_URL: "https://access.redhat.com/downloads/content/290"
   TERMINAL_URL: "https://terminal-infra.apps.boston-c9ae.openshiftworkshop.com"
   ETHERPAD_USERS_LIST: "http://etherpad-infra.apps.boston-c9ae.openshiftworkshop.com/p/users"
+  CLI_DOWNLOAD_LINK : "https://mirror.openshift.com/pub/openshift-v3/clients/3.11.170/"
   JAVA_APP: true
 
 

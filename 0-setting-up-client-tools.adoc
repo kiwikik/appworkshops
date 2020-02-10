@@ -27,9 +27,6 @@ installation you need to specify in the selection to integrate with the
 command prompt)
 
 [#login-and-config]
-### User and Credentials
-Users are previously created and you can assign yourself a login by adding your name {{ETHERPAD_USERS_LIST}}[here].
-
 
 ### Basic configuration
 
@@ -42,6 +39,13 @@ configuration file that is then used for subsequent commands.
 . When asked for credentials use the login you assigned previously and the password `{{DEFAULT_PASSWORD}}`.
 
 To login to a remote server use:
+
+### Alternatively
+
+One can download a CLI tool for their workstation from the URL
+{{CLI_DOWNLOAD_LINK}}
+
+
 
 ----
 $ oc login {{CONSOLE_ADDRESS}}
